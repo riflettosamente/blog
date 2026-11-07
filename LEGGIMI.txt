@@ -1,0 +1,9 @@
+RIFLETTOSAMENTE — archivio navigabile
+
+Apri index.html con un qualsiasi browser: funziona tutto offline.
+- 102 articoli (pagina per post con precedente/successivo)
+- 38 immagini nella cartella images/
+- ricerca full-text nella pagina iniziale
+
+Contenuto originale: riflettosamente.myblog.it · recuperato via Wayback Machine
+Generato il 2026-11-07T05:04:46.078Z
